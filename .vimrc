@@ -34,7 +34,7 @@ if maparg('<C-L>', 'n') ==# ''
 endif
 
 set laststatus=2
-set rulera
+set ruler
 set showcmd
 set wildmenu
 
