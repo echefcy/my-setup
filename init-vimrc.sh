@@ -1,1 +1,1 @@
-cp -f ./vimrc ~/
+cat vimrc-amendment >> ~/.vimrc

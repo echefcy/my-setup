@@ -1,1 +1,1 @@
-cp -f ./.bashrc ~/
+cat ./bashrc-amendment >> ~/.bashrc
